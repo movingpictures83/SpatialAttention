@@ -1,0 +1,2 @@
+attnfile	regular.attn.pkl
+features	features.txt

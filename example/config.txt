@@ -1,0 +1,2 @@
+Prefix plugins/SpatialAttention/example/
+Plugin SpatialAttention inputfile parameters.txt outputfile spatial.pkl
